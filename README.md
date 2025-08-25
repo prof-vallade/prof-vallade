@@ -29,9 +29,10 @@ Projet qui concilie **programmation et astronomie** 🌌
 
 ## 📊 Stats GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=valladefm&show_icons=true&theme=radical)  
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=valladefm&layout=compact&theme=radical)  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=prof-vallade&show_icons=true&theme=radical&include_all_commits=true)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=prof-vallade&layout=compact&theme=radical)
 
 ---
 
